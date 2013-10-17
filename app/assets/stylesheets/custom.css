@@ -1,0 +1,62 @@
+.container {
+	width: 710px;
+}
+
+body {
+	background-color: #cff;
+}
+
+header {
+	padding-top: 20px;
+}
+
+header img {
+	padding: 1em;
+	background: #fff;
+}
+
+section {
+	margin-top: 1em;
+	font-size: 120%;
+	padding: 20px;
+	background: #fff;
+}
+
+a {
+	color: #09c;
+	text-decoration: none;
+
+}
+
+a:hover {
+	color: #069;
+	text-decoration: underline;
+}
+
+}
+a:visited {
+	color: #069;
+}
+
+nav {
+	float: right;
+    margin-top:  5px 10px;
+	background: white;
+	padding: 0.5em 0.5em;
+	padding-bottom: 10em;
+}
+
+nav ul {
+	margin: 2px;
+	padding: 2em;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav ul li a {
+	padding: 0 5px;
+	font-weight: bold;
+}
